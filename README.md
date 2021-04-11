@@ -1,4 +1,8 @@
 ## Como utilizar
+* Requisitos
+  ``` 
+  Para rodar o Django, você precisa ter o Python3 instalado
+  ```
 * Clone o projeto para seu computador
   ```bash
   $ git clone https://github.com/larissarsilva/avantia
