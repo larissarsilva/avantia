@@ -19,8 +19,8 @@
   ```
 
 * Repositório frontend
-  ## https://github.com/larissarsilva/avantia
+  #### https://github.com/larissarsilva/frontAvantia
   
 * Hospedagem
-  ## https://sistemaavantia.000webhostapp.com/#/index
+  #### https://sistemaavantia.000webhostapp.com/#/index
    
